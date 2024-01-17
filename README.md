@@ -1,6 +1,8 @@
-### Hi there 👋
+<img src="./profile-cover.jpeg" />
 
+### Hi there 👋
 A full-stack software engineer with a passion for building purpose-driven community projects.
+
 
 🔭 I’m currently working on a story-telling app - Tale-Tell.<br>
 🌱 I’m currently perfecting app development and cloud technologies.<br>
