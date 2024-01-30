@@ -27,4 +27,4 @@ A full-stack software engineer with a passion for building purpose-driven commun
 
 ### My Technical Badges
 ##### Foundational
-<img height="100px" src="./aws-cloud-practitioner-badge.png" /><img height="100px" src="./azure-cloud-fundamentals-badge.png" /><img height="100px" src="./aws-cloud-essentials-badge.png" />
+<img height="100px" src="./aws-cloud-practitioner-badge.png" /><img height="100px" src="./microsoft-azure-cloud-fundamentals-badge.png" /><img height="100px" src="./aws-cloud-essentials-badge.png" />
