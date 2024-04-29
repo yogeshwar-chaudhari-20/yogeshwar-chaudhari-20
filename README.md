@@ -1,7 +1,7 @@
 <img src="./profile-cover.jpeg" />
 
 ### Hi there 👋
-A full-stack software engineer with a passion for building purpose-driven community projects.
+A full-stack software engineer with a passion for building purpose-driven projects for the people.
 
 
 🔭 I’m currently working on a story-telling app - Tale-Tell.<br>
