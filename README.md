@@ -4,7 +4,7 @@
 A full-stack software engineer with a passion for building purpose-driven projects for the people.
 
 
-🔭 I’m currently working on a story-telling app - Tale-Tell.<br>
+🔭 I’m currently working on a personal finance app - probably going to call it Moonshot.<br>
 🌱 I’m currently perfecting app development and cloud technologies.<br>
 👯 I’m looking to collaborate on purpose-driven community projects.<br>
 📫 How to reach me: chaudhari.yogesh20@gmail.com<br>
