@@ -11,7 +11,7 @@ I'm a full-stack software engineer with **5 years of professional experience**, 
 ⚡ Fun fact: No Facebook or Instagram.
 
 ### What I'm Building
-🍳 **[getkitchentable.app](https://getkitchentable.app)** - a financial planning app for everyday people.<br>
+<img src="./kitchen-table-icon.png" width="24" /> **[getkitchentable.app](https://getkitchentable.app)** - a financial planning app for everyday people.<br>
 🌿 **[My North Star – Minimalism](https://chromewebstore.google.com/detail/my-north-star-%E2%80%93-minimalis/nmcfhegoogadlfmjdafppdpmbbndknon?utm_source=item-share-cb&pli=1)** - a Chrome extension for intentional living.
 
 ### My Socials
