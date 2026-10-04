@@ -11,8 +11,8 @@ I'm a full-stack software engineer with **5 years of professional experience**, 
 ⚡ Fun fact: No Facebook or Instagram.
 
 ### What I'm Building
-🌿 **[My North Star – Minimalism](https://chromewebstore.google.com/detail/my-north-star-%E2%80%93-minimalis/nmcfhegoogadlfmjdafppdpmbbndknon?utm_source=item-share-cb&pli=1)** — a Chrome extension for intentional living.<br>
-🍳 **[getkitchentable.app](https://getkitchentable.app)** — purpose-driven project for the people.
+🌿 **[My North Star – Minimalism](https://chromewebstore.google.com/detail/my-north-star-%E2%80%93-minimalis/nmcfhegoogadlfmjdafppdpmbbndknon?utm_source=item-share-cb&pli=1)** - a Chrome extension for intentional living.<br>
+🍳 **[getkitchentable.app](https://getkitchentable.app)** - purpose-driven project for the people.
 
 ### My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshwar-chaudhari-354227150) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yogeshwar-chaudhari-20) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yogeshwar-chaudhari-20)[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8186303) 
